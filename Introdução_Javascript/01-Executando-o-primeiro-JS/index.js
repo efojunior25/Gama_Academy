@@ -1,0 +1,1 @@
+console.log("importando o  JS de um outro arquivo");
