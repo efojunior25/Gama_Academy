@@ -1,13 +1,6 @@
-let totalCompra = 100
-
-let calculaTotal = (totalCompra) => {
-
-let taxaServico = totalCompra * 0.10;
-
-
-
-return totalCompra + taxaServico;
-
-
+let a = 2
+function calcula(a) {
+    if (a < 1000)
+    return = a = a * 2
+    
 }
-calculaTotal(100)
